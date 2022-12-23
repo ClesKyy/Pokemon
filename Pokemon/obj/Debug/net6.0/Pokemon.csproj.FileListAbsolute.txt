@@ -1,0 +1,30 @@
+C:\Users\The_C\Desktop\TEST\TEST\bin\Debug\net6.0\Pokemon.exe
+C:\Users\The_C\Desktop\TEST\TEST\bin\Debug\net6.0\Pokemon.deps.json
+C:\Users\The_C\Desktop\TEST\TEST\bin\Debug\net6.0\Pokemon.runtimeconfig.json
+C:\Users\The_C\Desktop\TEST\TEST\bin\Debug\net6.0\Pokemon.dll
+C:\Users\The_C\Desktop\TEST\TEST\bin\Debug\net6.0\Pokemon.pdb
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.csproj.AssemblyReference.cache
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.AssemblyInfo.cs
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.dll
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\refint\Pokemon.dll
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.pdb
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\Pokemon.genruntimeconfig.cache
+C:\Users\The_C\Desktop\TEST\TEST\obj\Debug\net6.0\ref\Pokemon.dll
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\bin\Debug\net6.0\Pokemon.exe
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\bin\Debug\net6.0\Pokemon.deps.json
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\bin\Debug\net6.0\Pokemon.runtimeconfig.json
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\bin\Debug\net6.0\Pokemon.dll
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\bin\Debug\net6.0\Pokemon.pdb
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.csproj.AssemblyReference.cache
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfoInputs.cache
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.AssemblyInfo.cs
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.csproj.CoreCompileInputs.cache
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.dll
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\refint\Pokemon.dll
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.pdb
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\Pokemon.genruntimeconfig.cache
+C:\Users\The_C\Desktop\Projet C#\Pokemon\Pokemon\obj\Debug\net6.0\ref\Pokemon.dll
